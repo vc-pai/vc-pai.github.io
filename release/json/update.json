@@ -8,13 +8,9 @@
         "token": "101e3f7a4c8dd09604d4e704202d06fb",
         "download_token_can_expired": false,
         "is_ad_app": false,
-        "genre_id": 0,
-        "screenshots": [],
         "market_app_info": {
             "url": "",
-            "icon_url": "",
-            "screenshot_urls": [],
-            "onlined_at": 0
+            "icon_url": ""
         },
         "releases": {
             "master": {
