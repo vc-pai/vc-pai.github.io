@@ -2,9 +2,9 @@
   "baseUrl": "https://vc-pai.github.io/release/apk/",
   "release": [
     {
-      "versionType": 1,
+      "packageId": "com.zf.helper",
       "versionName": "1.5",
-      "changelog": "无更新内容",
+      "changelog": "com.zf.helper",
       "output": [
         {
           "outputType": {
@@ -25,9 +25,9 @@
       ]
     },
     {
-      "versionType": 2,
+      "packageId": "com.zf.helper.personal",
       "versionName": "1.5",
-      "changelog": "无更新内容",
+      "changelog": "com.zf.helper.personal",
       "output": [
         {
           "outputType": {
