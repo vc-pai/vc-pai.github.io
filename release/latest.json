@@ -1,0 +1,20 @@
+{
+  "release": [
+    {
+      "packageId": "com.zf.helper",
+      "versionName": "1.4",
+      "versionCode": "7",
+      "changelog": "无内容",
+      "apk_url": "https://vc-pai.github.io/release/apk/",
+      "path": "pihelper-release-v1.4-7-com.zf.helper.apk"
+    },
+    {
+      "packageId": "com.zf.helper.personal",
+      "versionName": "1.4",
+      "versionCode": "8",
+      "changelog": "无内容",
+      "apk_url": "https://vc-pai.github.io/release/apk/",
+      "path": "pihelper-release-v1.4-7-com.zf.helper.apk"
+    }
+  ]
+}
