@@ -1,20 +1,51 @@
 {
+  "baseUrl": "https://vc-pai.github.io/release/apk/",
   "release": [
     {
-      "packageId": "com.zf.helper",
-      "versionName": "1.4",
-      "versionCode": "7",
+      "versionType": 1,
+      "versionName": "1.5",
       "changelog": "无更新内容",
-      "apk_url": "https://vc-pai.github.io/release/apk/",
-      "path": "pihelper-release-v1.4-7-com.zf.helper.apk"
+      "output": [
+        {
+          "outputType": {
+            "type": "APK"
+          },
+          "apkInfo": {
+            "type": "MAIN",
+            "splits": [],
+            "versionCode": 8
+          },
+          "path": "pihelper-com.zf.helper-release-v1.5-8.apk",
+          "properties": {
+            "packageId": "com.zf.helper",
+            "split": "",
+            "minSdkVersion": "16"
+          }
+        }
+      ]
     },
     {
-      "packageId": "com.zf.helper.personal",
-      "versionName": "1.4",
-      "versionCode": "8",
+      "versionType": 2,
+      "versionName": "1.5",
       "changelog": "无更新内容",
-      "apk_url": "https://vc-pai.github.io/release/apk/",
-      "path": "pihelper-release-v1.4-7-com.zf.helper.apk"
+      "output": [
+        {
+          "outputType": {
+            "type": "APK"
+          },
+          "apkInfo": {
+            "type": "MAIN",
+            "splits": [],
+            "versionCode": 9
+          },
+          "path": "pihelper-com.zf.helper.personal-release-v1.5-9.apk",
+          "properties": {
+            "packageId": "com.zf.helper.personal",
+            "split": "",
+            "minSdkVersion": "16"
+          }
+        }
+      ]
     }
   ]
 }
