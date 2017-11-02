@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://vc-pai.github.io/release/apk/",
   "versionName": "1.5",
-  "changelog": "我是com.zf.helper.personal的更新日志",
+  "changelog": "修复apk无法更新的问题",
   "output": [
     {
       "outputType": {
