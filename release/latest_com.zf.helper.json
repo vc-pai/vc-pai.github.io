@@ -1,0 +1,23 @@
+{
+  "baseUrl": "https://vc-pai.github.io/release/apk/",
+  "versionName": "1.5",
+  "changelog": "我是com.zf.helper的更新日志",
+  "output": [
+    {
+      "outputType": {
+        "type": "APK"
+      },
+      "apkInfo": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 8
+      },
+      "path": "pihelper-com.zf.helper-release-v1.5-8.apk",
+      "properties": {
+        "packageId": "com.zf.helper",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}
