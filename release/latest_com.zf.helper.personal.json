@@ -1,0 +1,23 @@
+{
+  "baseUrl": "https://vc-pai.github.io/release/apk/",
+  "versionName": "1.5",
+  "changelog": "我是com.zf.helper.personal的更新日志",
+  "output": [
+    {
+      "outputType": {
+        "type": "APK"
+      },
+      "apkInfo": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 9
+      },
+      "path": "pihelper-com.zf.helper.personal-release-v1.5-9.apk",
+      "properties": {
+        "packageId": "com.zf.helper.personal",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}
