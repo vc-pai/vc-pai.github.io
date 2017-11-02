@@ -1,18 +1,9 @@
 {
-    "auth": true,
     "app": {
-        "id": "59cb0d0b959d691c590000c5",
         "type": "android",
         "name": "派助手",
         "desc": "",
         "short": "35x2",
-        "new_ad_tag": "",
-        "in_short_list": false,
-        "wait_time": 0,
-        "is_opened": true,
-        "has_passwd": false,
-        "store_link_visible": true,
-        "is_expired": false,
         "icon_url": "http://firicon.fir.im/d9803ae734418f3dcb4bdc6cb107234d4d50d5bc",
         "token": "101e3f7a4c8dd09604d4e704202d06fb",
         "download_token_can_expired": false,
@@ -27,26 +18,13 @@
         },
         "releases": {
             "master": {
-                "id": "59f2f804ca87a8648800009b",
                 "version": "1.4",
                 "build": "7",
                 "changelog": "1.检查无更新时提示“无更新”",
-                "is_history": false,
                 "fsize": 2343141,
-                "created_at": 1509095428,
-                "release_type": "inhouse",
-                "is_onlined": false,
-                "is_expired": false,
-                "scan_virus": {
-                    "kingsoft": null,
-                    "baidu": null
-                }
+                "created_at": 1509095428
             },
             "history": []
-        },
-        "constraint": false,
-        "is_embedded_ad": false,
-        "is_embedded_other": false,
-        "is_embedded_caipiao": false
+        }
     }
 }
